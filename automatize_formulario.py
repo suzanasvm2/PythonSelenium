@@ -14,7 +14,7 @@ def ler_dados_excel(nome_arquivo):
     return dados[1:] 
 
 # Caminho para o arquivo Excel com os dados
-arquivo_excel = 'dados_formulario.xlsx'
+arquivo_excel = 'data/dados_formulario.xlsx'
 
 # URL do formulário web
 url_formulario = 'https://docs.google.com/forms/d/e/1FAIpQLSde0eTjVIV-YU6S0UvGSaWeNpV6PMu4-QB49rlfoGC9Y1FRMg/viewform'
